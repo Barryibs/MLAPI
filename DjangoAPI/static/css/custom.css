@@ -1,0 +1,5 @@
+/* Reduce line height and adjust margins */
+form .linebreaks {
+    line-height: 0.5; /* Adjust line height to control line spacing */
+    margin: 5px 0; /* Adjust top and bottom margins as needed */
+}
